@@ -1,7 +1,7 @@
 ### Hola soy Luisinho 👋
 
 
-- 🔭 Busco trabajo como Dearrollador front-end
+- 🔭  Dearrollador front-end
 
 <div>
   <a href="https://beacons.ai/luisinhoLayme">
